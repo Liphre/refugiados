@@ -1,0 +1,2 @@
+# O javascript
+Utilizei o javascript de forma bem simples, a qual está mais para um bilhete de boas vindas ao usuário. Não muito complicado de fazer, apenas foi criada uma variante com base no input da pop-up que se abre logo quando o usuário acessa o site.
